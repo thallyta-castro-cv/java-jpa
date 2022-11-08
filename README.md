@@ -5,7 +5,7 @@ Este projeto foi criado Java, JPA e MySQL.
 
 ## Sobre o projeto
 
-Este projeto é um repositório base para os principais conceitos de JPA e Hibernate e serve para consultas futuras.
+Este projeto é um repositório base para os principais conceitos de JPA e Hibernate e foi criado para ser referência em consultas futuras.
 
 ## Tecnologias utilizadas
 
